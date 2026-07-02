@@ -1,7 +1,7 @@
 # ===== CONFIGURAÇÃO DE AMBIENTE =====
 $OutputEncoding = [System.Text.Encoding]::UTF8
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-$Host.UI.RawUI.WindowTitle = "Game Over - Instalador de Dependências"
+$Host.UI.RawUI.WindowTitle = "GameON - Instalador de Dependências"
 Clear-Host
 
 # ===== ELEVAÇÃO PARA ADMINISTRADOR =====
@@ -37,7 +37,7 @@ $luaDir = Join-Path $configDir "lua"
 Log "INFO" "Configurando exceções de segurança..."
 try {
     Add-MpPreference -ExclusionPath $steamDir -ErrorAction SilentlyContinue
-    Add-MpPreference -ExclusionPath "C:\GameOver_Download_Tmp" -ErrorAction SilentlyContinue
+    Add-MpPreference -ExclusionPath "C:\GameON_Download_Tmp" -ErrorAction SilentlyContinue
 } catch { Log "WARN" "Não foi possível aplicar exceções." }
 
 # ===== EXECUÇÃO DA INSTALAÇÃO =====
