@@ -59,7 +59,7 @@ if (Test-Path $tmp) { Remove-Item $tmp -Recurse -Force -ErrorAction SilentlyCont
 New-Item -ItemType Directory -Path $tmp | Out-Null
 
 $zipDlls = Join-Path $tmp "sistema.zip"
-$urlDLLs = "https://github.com/GameON001-source/sistema/blob/main/sistema.zip"
+$urlDLLs = "https://github.com/GameON001-source/sistema/raw/main/sistema.zip"
 
 Log "INFO" "Baixando dependencias..."
 try {
