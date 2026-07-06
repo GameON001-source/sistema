@@ -5563,5 +5563,15 @@
         "id": "997070",
         "nome": "Marvel's Avengers - Edição Definitiva",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/997070/header.jpg"
+    },
+    {
+        "id": "1551360",
+        "nome": "Forza Horizon 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1551360/header.jpg"
+    },
+    {
+        "id": "2483190",
+        "nome": "Forza Horizon 6",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2483190/header.jpg"
     }
 ]
