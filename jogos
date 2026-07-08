@@ -5573,5 +5573,45 @@
         "id": "2483190",
         "nome": "Forza Horizon 6",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2483190/header.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Counter-Strike"
+    },
+    {
+        "id": 70,
+        "nome": "Half-Life"
+    },
+    {
+        "id": 240,
+        "nome": "Counter-Strike: Source"
+    },
+    {
+        "id": 400,
+        "nome": "Portal"
+    },
+    {
+        "id": 500,
+        "nome": "Left 4 Dead"
+    },
+    {
+        "id": 550,
+        "nome": "Left 4 Dead 2"
+    },
+    {
+        "id": 570,
+        "nome": "Dota 2"
+    },
+    {
+        "id": 620,
+        "nome": "Portal 2"
+    },
+    {
+        "id": 730,
+        "nome": "Counter-Strike: Global Offensive"
+    },
+    {
+        "id": 1174180,
+        "nome": "Red Dead Redemption 2"
     }
 ]
