@@ -6986,7 +6986,8 @@
     {
         "id": "271590",
         "nome": "Grand Theft Auto V",
-        "imagem": "https://steamcdn-a.akamaihd.net/steam/apps/271590/header.jpg"
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/271590/header.jpg",
+        "descricao": "Quando um malandro de rua, um ladrão de bancos aposentado e um psicopata aterrorizante se envolvem com alguns dos criminosos mais assustadores e loucos do submundo, o governo dos EUA e a indústria do entretenimento, eles devem realizar golpes ousados para sobreviver nessa cidade implacável onde não podem confiar em ninguém, nem mesmo um no outro"
     },
     {
         "id": "1174180",
