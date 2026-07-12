@@ -1,8 +1,5 @@
 {
   "versaoAtual": "2.0.1",
-  "mensagem": "Uma nova versão está disponível!",
-  
-  "Elite": {
-    "senhaCorreta": "0987"
-  }
+  "linkDownload": "https://www.dropbox.com/s/SEU_LINK_DO_ZIP_NOVO.zip?dl=1",
+  "mensagem": "Uma nova versão está disponível!"
 }
