@@ -1309,9 +1309,9 @@
     },
     {
         "id": "1546990",
-        "nome": "Steam App 1546990",
-        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1546990/header.jpg",
-        "descricao": "Página oficial do aplicativo indisponível no momento ou conteúdo em atualização na base de dados do sistema."
+        "nome": "Grand Theft Auto: San Andreas - The Definitive Edition",
+        "descricao": "Experimente o clássico aclamado atualizado para a nova geração, com melhorias em todos os aspectos, incluindo nova iluminação, texturas em alta resolução e controles ao estilo de Grand Theft Auto V.",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/2/23/Grand_Theft_Auto_San_Andreas_The_Definitive_Edition_capa.png"
     },
     {
         "id": "1547000",
@@ -6982,11 +6982,6 @@
         "nome": "Forza Horizon 6",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2483190/header.jpg",
         "descricao": "O épico clássico sobrevivência pacífica tubarões asfalto oceanos coop lutas carros brilhantes fofinhas cômicas deuses pancadaria dragão visuais corridas épicos maravilhosos hiper simulados maravilhosamente genial deuses góticos épicos cômicos pacíficos lendas!"
-    },
-    {
-        "id": 1546990,
-        "nome": "Grand Theft Auto: San Andreas - The Definitive Edition",
-        "descricao": "Experimente o clássico aclamado atualizado para a nova geração, com melhorias em todos os aspectos, incluindo nova iluminação, texturas em alta resolução e controles ao estilo de Grand Theft Auto V."
     },
     {
         "id": "271590",
